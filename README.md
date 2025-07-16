@@ -17,7 +17,7 @@
 ---
 
 ### 📂 Мои проекты:
-- **[sso+gin](https://github.com/mus-mil/web_chat/)**
+- **[sso+gin](https://github.com/iconfire7/auth-gin/)**
     - **Технологии:** Golang, PostgreSQL, Makefile.
     - **Функционал:** авторизация.
 - **[quotation_book](https://github.com/Mus-mil/quotation_book/)**
