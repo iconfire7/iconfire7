@@ -1,36 +1,99 @@
-# 👋 Привет! Меня зовут Амин Сабиров
-### Junior Golang Developer
+# Амин Сабиров — Golang Backend Developer
 
-Я начинающий разработчик, увлечённый созданием приложений на Go.  
-Специализируюсь на backend-разработке с использованием **Golang**,  
-**PostgreSQL** и построении **REST API**.  
-Всегда открыт к новым знаниям и готов к интересным проектам.  
+[![GitHub](https://img.shields.io/badge/GitHub-iconfire7-181717?logo=github&logoColor=white)](https://github.com/iconfire7)
+[![Email](https://img.shields.io/badge/Email-aminsabirov2006%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:aminsabirov2006@gmail.com)
 
----
-
-### 🛠 Мой стек технологий:
-- **Язык программирования:** Golang
-- **Базы данных:** PostgreSQL
-- **Веб-технологии:** REST API
-- **Инструменты:** Docker, Git, Linux
+## О себе
+Golang backend-разработчик. Интересуюсь созданием REST API, сервисов и CLI-утилит под Unix, а также работой с PostgreSQL.  
+Фокус: конкурентность, аккуратная и чистая архитектура, а также тестирование.
 
 ---
 
-### 📂 Мои проекты:
-- **[sso+gin](https://github.com/iconfire7/auth-gin/)**
-    - **Технологии:** Golang, PostgreSQL, Makefile.
-    - **Функционал:** авторизация.
-- **[quotation_book](https://github.com/Mus-mil/quotation_book/)**
+## Навыки
+
+<p>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=go" height="36" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" height="36" alt="C" />
+  <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=bash" height="36" alt="Bash" />
+</p>
+
+<p>
+  <!-- Backend / DB / Tools -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" />
+</p>
+
+<p>
+  <!-- OS / Servers -->
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="36" alt="Ubuntu LTS" />
+  <img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" />
+</p>
 
 ---
 
-### 📬 Связаться со мной:
-<div align="center">
-    <a href="https://t.me/sabirov_amin" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-    </a>
-</div>
+## Опыт сетевых лабораторий (GNS3)
+- Построение топологий на **Cisco IOS** в GNS3
+- Настройка и диагностика **VLAN**, trunking, **EtherChannel**
+- Маршрутизация: **OSPF**, static routing
+- Службы и доступ: **DHCP**, **DNS**, **NTP**
 
 ---
 
-✨ Постоянно развиваюсь и ищу возможности для роста.
+## Проекты
+
+### 🔹 Clairvoy — backend-инструмент на Go
+**Репозиторий:** https://github.com/iconfire7/Clairvoy  
+- Разработка и поддержка основной кодовой базы на Go
+- Улучшение модульности и читаемости кода
+- Написание/поддержка модульных тестов
+- Автоматизация сборки через Makefile  
+**Стек:** Go, Makefile, тестирование
+
+---
+
+### 🔹 quotation_book — сервис/утилита на Go
+**Репозиторий:** https://github.com/iconfire7/quotation_book  
+- Реализация основной функциональности на Go
+- Работа с сервисной логикой и интеграциями компонентов  
+**Стек:** Go
+
+---
+
+### 🔹 auth-gin — пример аутентификации на Gin
+**Репозиторий:** https://github.com/iconfire7/auth-gin  
+- Backend на Gin (маршрутизация, middleware, аутентификация)
+- Простой фронтенд (HTML/CSS/JS) для демонстрации  
+**Стек:** Go, Gin, HTTP, HTML/CSS/JS
+
+---
+
+### 🔹 SimpleBashUtils (grep/cat) — консольные утилиты
+**Репозиторий:** https://github.com/iconfire7/SimpleBashUtils_grep_cat  
+- Реализация утилит на C и shell-скриптах
+- Автоматизация сборки через Makefile  
+**Стек:** C, Shell, Python, Makefile, Dockerfile
+
+---
+
+### 🔹 CPP1_Matrix — библиотека матриц на C++
+**Репозиторий:** https://github.com/iconfire7/CPP1_Matrix  
+- Реализация матричных операций
+- Работа над оптимизаацией производительности  
+**Стек:** C++
+
+---
+
+## Интересы
+- Backend-разработка на Go
+- PostgreSQL, проектирование схем и запросы
+- Linux / сетевые технологии
+
+---
+
+## Контакты
+- **GitHub:** https://github.com/iconfire7  
+- **Email:** aminsabirov2006@gmail.com
