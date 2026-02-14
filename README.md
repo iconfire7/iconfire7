@@ -1,7 +1,7 @@
 # Амин Сабиров — Golang Backend Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-iconfire7-181717?logo=github&logoColor=white)](https://github.com/iconfire7)
-[![Email](https://img.shields.io/badge/Email-aminsabirov2006%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:aminsabirov2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:aminsabirov2006@gmail.com)
 
 ## О себе
 Golang backend-разработчик. Интересуюсь созданием REST API, сервисов и CLI-утилит под Unix, а также работой с PostgreSQL.  
